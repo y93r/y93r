@@ -1,5 +1,5 @@
 ### Olá, eu sou Yara 👋
-Sou estudante de engenharia de produção e agora aspirante a cientista de dados.
+
 <div align="center">
   <a href="https://github.com/y93r">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=y93r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   
