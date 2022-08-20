@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/y93r">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=y93r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y93r&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=y93r&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>   
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y93r&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,8 +13,9 @@
 <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
 <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-<img align="center" alt="Selenium" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-                             
+<img align="center" alt="Matlab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="center" alt="VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+                                       
                           
 </div>
 
