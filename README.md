@@ -1,7 +1,7 @@
 ### Olá, eu sou Yara 👋
 - Fã de esportes olimpicos, principalmente vôlei;
 - Ouvinte do bom e velho rock 'n' roll;
-- Aspirante a cientista de dados
+- Tenho interesse na área de dados
 
 <div align="center">
   <a href="https://github.com/y93r">
