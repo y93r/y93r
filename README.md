@@ -1,7 +1,7 @@
 ### Olá, eu sou Yara 👋
 - Fã de esportes olimpicos, principalmente vôlei;
 - Ouvinte do bom e velho rock 'n' roll;
-- Tenho interesse na área de dados
+- Me desenvolvendo na área de dados
 
 <div align="center">
   <a href="https://github.com/y93r">
@@ -26,6 +26,8 @@
 ##
 
 <div> 
-<a href="https://www.linkedin.com/in/yara-de-oliveira-rufino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/yara-de-oliveira-rufino/" target="_blank"><img height="25" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://stackexchange.com/users/25587723/yara/" target="_blank"><img height="25" width="90" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a> 
+<a href="https://www.kaggle.com/yaradeoliv" target="_blank"><img height="25" width="90" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
 
 </div>
