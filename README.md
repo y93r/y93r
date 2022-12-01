@@ -1,7 +1,8 @@
-### Olá, eu sou Yara 👋
+### Olá, eu sou YarA 👋
 - Fã de esportes olimpicos, principalmente vôlei;
 - Ouvinte do bom e velho rock 'n' roll;
-- Me desenvolvendo na área de dados
+- Fã de séries e filmes variados; 
+- Me desenvolvendo na área de dados.
 
 <div align="center">
   <a href="https://github.com/y93r">
@@ -19,7 +20,9 @@
 <img align="center" alt="Matlab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <img align="center" alt="Numpy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 <img align="center" alt="Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-                                    
+<img align="center" alt="Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="center" alt="Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+                                             
                           
 </div>
 
