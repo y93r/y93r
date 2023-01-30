@@ -2,6 +2,7 @@
 - Fã de esportes olimpicos, principalmente vôlei;
 - Ouvinte do bom e velho rock 'n' roll;
 - Fã de séries e filmes variados; 
+- Estudante de engenharia de produção;
 - Me desenvolvendo na área de dados.
 
 <div align="center">
@@ -10,6 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y93r&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
+<div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
