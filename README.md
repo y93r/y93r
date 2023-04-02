@@ -1,9 +1,9 @@
 ### Olá, eu sou YarA 👋
 - Fã de esportes olimpicos, principalmente vôlei;
-- Ouvinte do bom e velho rock 'n' roll;
+- Ouvinte de rock 'n' roll, rap/hip hop, eletrônica, pop;
 - Fã de séries e filmes variados; 
 - Estudante de engenharia de produção;
-- Me desenvolvendo na área de dados.
+- Me desenvolvendo na área de dados e de RPA.
 
 <div align="center">
   <a href="https://github.com/y93r">
