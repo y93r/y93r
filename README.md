@@ -1,7 +1,7 @@
 ### Olá, eu sou YarA 👋
 - Fã de esportes olimpicos, principalmente vôlei;
 - Ouvinte de rock 'n' roll, rap/hip hop, eletrônica, pop;
-- Gosot de maratonar séries e filmes variados; 
+- Gosto de maratonar séries e filmes variados; 
 - Estudante de engenharia de produção;
 - Me desenvolvendo na área de dados e de RPA.
 
