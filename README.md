@@ -3,7 +3,8 @@
 - Ouvinte de rock 'n' roll, rap/hip hop, eletrônica, pop;
 - Gosto de maratonar séries e filmes variados; 
 - Estudante de engenharia de produção;
-- Me desenvolvendo na área de dados e de RPA.
+- Análise de dados;
+- Automações.
 
 <div align="center">
   <a href="https://github.com/y93r">
