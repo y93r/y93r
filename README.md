@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y93r&label=Profile%20views&color=0e75b6&style=flat" alt="y93r" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yara-de-oliveira-rufino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yara-de-oliveira-rufino" height="30" width="40" /></a>
-</p>
-<br>
-
-<h3 align="left">TECHNOLOGIES:</h3>
+<h3 align="left">Connect with me:
+  <a href="https://linkedin.com/in/yara-de-oliveira-rufino" target="_blank" style="display: inline-block; vertical-align: middle;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yara-de-oliveira-rufino" height="30" width="40" />
+  </a>
+  <span style="display: inline-block; vertical-align: middle;"></span>
+</h3>
+<hr>
+<h3 align="left">TECHNICAL SKILLS:</h3>
 <div style="display: inline_block">
     <h4>Programming Language</h4>
 <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
