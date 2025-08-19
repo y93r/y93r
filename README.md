@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yara!</h1>
+<h1 align="center">Hi, I'm Yara! 🤓🎸🏐</h1>
 <h3 align="center"> Data Analyst | Dev Python | Production Engineer | Logistics Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y93r&label=Profile%20views&color=0e75b6&style=flat" alt="y93r" /> </p>
@@ -42,10 +42,19 @@
   
 <img alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" >
 <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-           
-          
-    
+              
 </div>
+
+----
+<h2>MAIN PROJECTS
+  
+| Project         |                                       |
+| :-------------------------: | ------------------------------ |
+| **[DOCUMENTAÇÃO E VERSIONAMENTO DE PROJETOS DE BI](https://github.com/y93r/Documentacao-Versionamento)** | <img src="https://github.com/y93r/Documentacao-Versionamento/blob/master/git.jpg" width="300" height="250"> |
+| **[FLUXO DE DADOS: DA INTERFACE GRÁFICA ATÉ A VISUALIZAÇÃO DOS DADOS](https://github.com/y93r/Software_Dados_Producao_HrxHr)** | <img src="https://github.com/y93r/Software_Dados_Producao_HrxHr/blob/main/artigo-fluxo%20de%20dados.png" width="300" height="250"> |
+| **[PERFIL ESTATÍSTICO DAS CONVOCADAS OLIMPÍCAS NA ERA JOSÉ ROBERTO GUIMARÃES](https://github.com/y93r/SFV_OG_2004-2024)** | <img src="https://github.com/y93r/SFV_OG_2004-2024/blob/main/SFV_04-24.png" width="300" height="250"> |
+
+
 
 <hr>
 <div align="center">
